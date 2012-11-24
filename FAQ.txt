@@ -1,0 +1,23 @@
+A Installer 
+
+- Partage de source
+Git - http://git-scm.com/
+Ensuite ce crée un compte sur GitHub
+GitHub for Windows - http://windows.github.com/  
+
+
+- Editeur Txt
+Sublime http://www.sublimetext.com/
+
+
+Check List
+
+Souris
+Headphone
+Laptop
+Cle USB
+iPad
+
+FAQ :
+
+On host sur nos machines OU on utilise un WebServer du cloud (Amazon, Azure...)

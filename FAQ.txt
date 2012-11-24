@@ -9,9 +9,16 @@ GitHub for Windows - http://windows.github.com/
 - Editeur Txt
 Sublime http://www.sublimetext.com/
 
+-Outil de comparaison
+Beyond Compare
+
+- Install IIS
+- Install PHP Server
 
 Check List
-
+PowerSuply pour Laptop
+PowerSupply pour iPad
+PowerSupply pour Cell
 Souris
 Headphone
 Laptop

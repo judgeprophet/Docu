@@ -1,0 +1,13 @@
+RDIO
+http://developer.rdio.com/
+
+Tum.bz
+http://tum.bz/api
+
+
+Wajam
+https://github.com/wajam/wajam-api-example
+
+JSON with PHP
+http://www.itnewb.com/tutorial/Introduction-to-JSON-and-PHP/page2
+http://nitschinger.at/Handling-JSON-like-a-boss-in-PHP

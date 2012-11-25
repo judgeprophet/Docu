@@ -15,6 +15,12 @@ Beyond Compare
 - Install IIS
 - Install PHP Server
 
+- 
+------------------------------------
+Online Software
+- Campfire https://launchpad.37signals.com/campfire/signin
+
+--------------------------------------
 Check List
 PowerSuply pour Laptop
 PowerSupply pour iPad
@@ -25,6 +31,12 @@ Laptop
 Cle USB
 iPad
 
+-----------------------------------------------
+TODO
+
+- Copy all install file on another Drive. For fast install
+
+---------------------------------------------
 FAQ :
 
 On host sur nos machines OU on utilise un WebServer du cloud (Amazon, Azure...)

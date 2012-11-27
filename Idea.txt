@@ -1,9 +1,0 @@
-
-Fight Tumbz
-- Tes tumbz sont ton Deck
-- Total de tumbz = Ton pointage
-- Compare et Affronte d'autre
-- Des Levels et XP
-
-
-Mario Tumbz Rdio ( A side scrolling game for choosing previous ou next song.  Each song is a Brick Block)

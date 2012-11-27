@@ -1,0 +1,27 @@
+
+Fight Tumbz
+- Tes tumbz sont ton Deck
+- Total de tumbz = Ton pointage
+- Compare et Affronte d'autre
+- Des Levels et XP
+- Pour chaque 5 tumbz un coup peut etre donné.
+
+Ton health est le nombre de tumbz.
+
+La description des coup s'affiche au hazard.  Genre.
+
+Back Kick on the Chin... -10 health
+Fist in the... -10  
+Kick in the nuts...  -30 health  ohhh Cheap Shot!
+Finger in the eyes... -5
+
+Le dernier move pourrait etre au choix de l'utilisateur (Finish Him)  selon sont level des moves sont unlocker.
+
+Des XP sont gagné en fonction de la difficulté d'un adversaire.
+
+Ex: 
+tu as 30 tumbz ta le droit à 6coup random afin de réduite le hp ton ton adversaire
+Celui qui a la fin a le plus de HP Gagne!
+
+
+Mario Tumbz Rdio ( A side scrolling game for choosing previous ou next song.  Each song is a Brick Block)

@@ -14,11 +14,12 @@ Beyond Compare
 
 - Install IIS
 - Install PHP Server
-
 - 
 ------------------------------------
 Online Software
 - Campfire https://launchpad.37signals.com/campfire/signin
+- Crowdbase https://mla3.crowdbase.com/
+- Tumbz http://tum.bz/home
 
 --------------------------------------
 Check List

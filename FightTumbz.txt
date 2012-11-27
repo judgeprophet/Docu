@@ -1,4 +1,4 @@
-
+﻿
 Fight Tumbz
 - Tes tumbz sont ton Deck
 - Total de tumbz = Ton pointage
@@ -22,6 +22,10 @@ Des XP sont gagné en fonction de la difficulté d'un adversaire.
 Ex: 
 tu as 30 tumbz ta le droit à 6coup random afin de réduite le hp ton ton adversaire
 Celui qui a la fin a le plus de HP Gagne!
+
+
+Une toune de RDIO pourrait jouer durant le combat
+
 
 --- Ex Console
 

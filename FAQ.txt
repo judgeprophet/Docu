@@ -41,3 +41,5 @@ TODO
 FAQ :
 
 On host sur nos machines OU on utilise un WebServer du cloud (Amazon, Azure...)
+
+**si no machines suffisent a nos besoin je propose qu'on host local. Moins de temps a uploader, et plus fiable au cas ou le net debarque.

@@ -1,0 +1,51 @@
+﻿Social Fight (formely know as Tumbz Fight)!
+Game Aggregator of Social Network
+
+On calcul la puissance d'un joueur en fonction de ses interactions sociales (selon les API fournis),
+il peut ainsi affronter les autres usager des services comptabilisés.
+
+(Intégrations de Tumbz, Crowdbase, Wajam...)
+
+
+- Tes tumbz 
+- Ton Nombre de Post sur CrowdBase 
+- 
+-Total des intéractions socials est Ton Power
+...
+
+- Total Post = Ton pointage
+- Compare et Affronte d'autre
+- Des Levels et XP
+- Pour chaque 5 tumbz un coup peut etre donné.
+
+Ton health est le nombre de tumbz.
+
+La description des coup s'affiche au hazard.  Genre.
+
+Back Kick on the Chin... -10 health
+Fist in the... -10  
+Kick in the nuts...  -30 health  ohhh Cheap Shot!
+Finger in the eyes... -5
+
+Le dernier move pourrait etre au choix de l'utilisateur (Finish Him)  selon sont level des moves sont unlocker.
+
+Des XP sont gagné en fonction de la difficulté d'un adversaire.
+
+Ex: 
+tu as 30 tumbz ta le droit à 6coup random afin de réduite le hp ton ton adversaire
+Celui qui a la fin a le plus de HP Gagne!
+
+
+Une toune de RDIO pourrait jouer durant le combat
+
+
+--- Ex Console
+
+Seb lvl 2 (6 moves left) [30hp] : Hit Joe with a Slap on the Face -2
+Joe Lvl 30 (4 moves left) [27hp] : Hit Seb with a Skate on the Head -5
+Seb (5 moves left) [25hp] : Hit Joe Like a Girl with a broken nail in the eyes -3, Joe can't see shit
+....
+Last move for Joe :  Unscrew Seb Head and throw it in a bowl of vinegar -30.
+...
+Joe  WIN
+-----
